@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fa5958f-089d-440a-8f3b-a9665765da32" name="Changes" comment="" />
+    <list default="true" id="9fa5958f-089d-440a-8f3b-a9665765da32" name="Changes" comment="Important statistics for the grades in a class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +31,19 @@
       <option name="presentableId" value="Default" />
       <updated>1723359291341</updated>
     </task>
+    <task id="LOCAL-00001" summary="Important statistics for the grades in a class">
+      <option name="closed" value="true" />
+      <created>1723359469845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723359469845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Important statistics for the grades in a class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Important statistics for the grades in a class" />
   </component>
 </project>
